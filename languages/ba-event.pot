@@ -1,0 +1,1426 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BA Event 1.1.0\n"
+"POT-Creation-Date: 2018-03-30 12:49+0300\n"
+"PO-Revision-Date: 2016-07-05 22:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_x;_n\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:83 admin/admin.php:84 admin/admin.php:318
+msgid "BA Event Settings"
+msgstr ""
+
+#: admin/admin.php:92 admin/admin.php:295
+msgid "Central Reservation Office (CRO)"
+msgstr ""
+
+#: admin/admin.php:94 admin/admin.php:248
+msgid "My Customers"
+msgstr ""
+
+#: admin/admin.php:156 admin/admin.php:159
+msgid "Reservation updated."
+msgstr ""
+
+#: admin/admin.php:157
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/admin.php:158
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/admin.php:161
+#, php-format
+msgid "Reservation restored to revision from %s"
+msgstr ""
+
+#: admin/admin.php:162 admin/admin.php:163
+msgid "Reservation saved."
+msgstr ""
+
+#: admin/admin.php:164
+msgid "Reservation submitted."
+msgstr ""
+
+#: admin/admin.php:165
+#, php-format
+msgid "Reservation scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/admin.php:167
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/admin.php:168
+msgid "Reservation draft updated."
+msgstr ""
+
+#: admin/admin.php:198
+msgid "Date of Booking"
+msgstr ""
+
+#: admin/admin.php:199
+msgid "Event title"
+msgstr ""
+
+#: admin/admin.php:200 ba-event-main.php:1976
+msgid "Event Date"
+msgstr ""
+
+#: admin/admin.php:201
+msgid "Event Time"
+msgstr ""
+
+#: admin/admin.php:202 ba-event-main.php:1984
+msgid "Tickets"
+msgstr ""
+
+#: admin/admin.php:203
+msgid "Total amount, "
+msgstr ""
+
+#: admin/admin.php:301
+msgid "Add new reservation"
+msgstr ""
+
+#: admin/admin.php:302
+msgid "View all reservations"
+msgstr ""
+
+#: admin/admin.php:358
+msgid "General"
+msgstr ""
+
+#: admin/admin.php:365
+msgid "Date format"
+msgstr ""
+
+#: admin/admin.php:373
+msgid "Event Post Type (post type from the plugin is selected by default)"
+msgstr ""
+
+#: admin/admin.php:381
+msgid "Add Address field to Event?"
+msgstr ""
+
+#: admin/admin.php:389
+msgid "Add Slideshow to Event?"
+msgstr ""
+
+#: admin/admin.php:397
+msgid "Add Features to Event?"
+msgstr ""
+
+#: admin/admin.php:405
+msgid "Add Testimonials to Event?"
+msgstr ""
+
+#: admin/admin.php:413
+msgid "Add FAQ to Event?"
+msgstr ""
+
+#: admin/admin.php:421
+msgid "Add Booking Calendar to Event?"
+msgstr ""
+
+#: admin/admin.php:429
+msgid "Show tickets count on the Booking Calendar?"
+msgstr ""
+
+#: admin/admin.php:439
+msgid "Color settings"
+msgstr ""
+
+#: admin/admin.php:446
+msgid "Main buttons background"
+msgstr ""
+
+#: admin/admin.php:455
+msgid "Widget price background"
+msgstr ""
+
+#: admin/admin.php:464
+msgid "Main Calendar month selection background"
+msgstr ""
+
+#: admin/admin.php:473
+msgid "Main Calendar month selection color"
+msgstr ""
+
+#: admin/admin.php:482
+msgid "Main Calendar event selection background"
+msgstr ""
+
+#: admin/admin.php:491
+msgid "Main Calendar event selection color"
+msgstr ""
+
+#: admin/admin.php:500
+msgid "Main Calendar week days background"
+msgstr ""
+
+#: admin/admin.php:509
+msgid "Main Calendar available date background"
+msgstr ""
+
+#: admin/admin.php:518
+msgid "Main Calendar not available date background"
+msgstr ""
+
+#: admin/admin.php:527
+msgid "Main Calendar event time color"
+msgstr ""
+
+#: admin/admin.php:536
+msgid "Booking Calendar available date background"
+msgstr ""
+
+#: admin/admin.php:545
+msgid "Booking Calendar not available date background"
+msgstr ""
+
+#: admin/admin.php:554
+msgid "Checkmark image for features list"
+msgstr ""
+
+#: admin/admin.php:565
+msgid "Google map"
+msgstr ""
+
+#: admin/admin.php:572
+msgid "Show google map on Event page?"
+msgstr ""
+
+#: admin/admin.php:580
+msgid "Google API key (see "
+msgstr ""
+
+#: admin/admin.php:580
+msgid " for details)."
+msgstr ""
+
+#: admin/admin.php:588
+msgid "Map zoom"
+msgstr ""
+
+#: admin/admin.php:596
+msgid "Select map marker"
+msgstr ""
+
+#: admin/admin.php:605
+msgid "E-mails"
+msgstr ""
+
+#: admin/admin.php:612
+msgid "Confirmation email From address (info@your-domain.com)"
+msgstr ""
+
+#: admin/admin.php:620
+msgid "Confirmation email From name"
+msgstr ""
+
+#: admin/admin.php:628
+msgid "Confirmation email subject"
+msgstr ""
+
+#: admin/admin.php:636
+msgid "Upload header image"
+msgstr ""
+
+#: admin/admin.php:645
+msgid "Confirmation email title"
+msgstr ""
+
+#: admin/admin.php:654
+msgid "Confirmation email body"
+msgstr ""
+
+#: admin/admin.php:662
+msgid "Confirmation email footer text"
+msgstr ""
+
+#: admin/admin.php:671
+msgid "Upload footer image"
+msgstr ""
+
+#: admin/admin.php:682
+msgid "Payment settings"
+msgstr ""
+
+#: admin/admin.php:689
+msgid "Taxes, % (will be added to prices)"
+msgstr ""
+
+#: admin/admin.php:697
+msgid "Currency symbol ($, &euro;, etc.)"
+msgstr ""
+
+#: admin/admin.php:705
+msgid "Currency 3 letters code (ISO 4217: USD, EUR, etc.)"
+msgstr ""
+
+#: admin/admin.php:713
+msgid "Place currency symbol"
+msgstr ""
+
+#: admin/admin.php:725
+msgid "Booking Modes"
+msgstr ""
+
+#: admin/admin.php:732
+msgid ""
+"Book now. Pay Later: Customers do not have to pay online payment to make "
+"reservation."
+msgstr ""
+
+#: admin/admin.php:740
+msgid ""
+"Deposit to Guarantee the Reservation: Customers pay online deposit to "
+"guarantee the reservation."
+msgstr ""
+
+#: admin/admin.php:748
+msgid ""
+"Pre-Paid Reservation: Customers pay online full amount of reservation."
+msgstr ""
+
+#: admin/admin.php:756
+#, php-format
+msgid "Deposit amount (% from total)"
+msgstr ""
+
+#: admin/admin.php:768
+msgid "Booking settings"
+msgstr ""
+
+#: admin/admin.php:775
+msgid ""
+"Add \"I have read and accept the Terms and Conditions\" required field "
+"to booking form?"
+msgstr ""
+
+#: admin/admin.php:783
+msgid "Add new required field to booking form?"
+msgstr ""
+
+#: admin/admin.php:791
+msgid "Add Print button to Confirmation page"
+msgstr ""
+
+#: admin/admin.php:931 admin/admin.php:940 admin/admin.php:949
+#: admin/admin.php:958 admin/admin.php:967 admin/admin.php:976
+msgid "Add"
+msgstr ""
+
+#: admin/admin.php:985
+msgid "Show"
+msgstr ""
+
+#: admin/admin.php:1023
+msgid "Upload"
+msgstr ""
+
+#: admin/admin.php:1122 admin/admin.php:1199 admin/admin.php:1226
+#: admin/admin.php:1237 admin/admin.php:1248
+msgid "Yes"
+msgstr ""
+
+#: admin/admin.php:1123 admin/admin.php:1198 admin/admin.php:1227
+#: admin/admin.php:1238 admin/admin.php:1249
+msgid "No"
+msgstr ""
+
+#: admin/admin.php:1138
+msgid "d/m/Y"
+msgstr ""
+
+#: admin/admin.php:1139
+msgid "m/d/Y"
+msgstr ""
+
+#: admin/admin.php:1170 admin/admin.php:1177 admin/admin.php:1184
+msgid "Activate"
+msgstr ""
+
+#: admin/admin.php:1212
+msgid "Before amount"
+msgstr ""
+
+#: admin/admin.php:1213
+msgid "After amount"
+msgstr ""
+
+#: ba-event-main.php:116 ba-event-main.php:178
+msgid "Thank you for your request, one of our staff will respond shortly."
+msgstr ""
+
+#: ba-event-main.php:117
+msgid "You have new reservation"
+msgstr ""
+
+#: ba-event-main.php:172
+msgid "Booking"
+msgstr ""
+
+#: ba-event-main.php:174
+msgid "Proceed with booking"
+msgstr ""
+
+#: ba-event-main.php:176
+msgid "Calendar"
+msgstr ""
+
+#: ba-event-main.php:178
+msgid "Confirmation"
+msgstr ""
+
+#: ba-event-main.php:181
+msgid "Terms and Conditions"
+msgstr ""
+
+#: ba-event-main.php:182
+msgid "Additional conditions"
+msgstr ""
+
+#: ba-event-main.php:618 ba-event-main.php:622
+msgid "All Reservations"
+msgstr ""
+
+#: ba-event-main.php:619
+msgid "Reservation"
+msgstr ""
+
+#: ba-event-main.php:620 ba-event-main.php:637
+msgid "Reservations"
+msgstr ""
+
+#: ba-event-main.php:621
+msgid "Parent Reservation"
+msgstr ""
+
+#: ba-event-main.php:623
+msgid "View Reservation"
+msgstr ""
+
+#: ba-event-main.php:624 ba-event-main.php:625
+msgid "Make New Reservation"
+msgstr ""
+
+#: ba-event-main.php:626
+msgid "Modify Reservation"
+msgstr ""
+
+#: ba-event-main.php:627
+msgid "Update Reservation"
+msgstr ""
+
+#: ba-event-main.php:628
+msgid "Search Reservations"
+msgstr ""
+
+#: ba-event-main.php:629 ba-event-main.php:679 ba-event-main.php:777
+#: ba-event-main.php:826
+msgid "Not Found"
+msgstr ""
+
+#: ba-event-main.php:630 ba-event-main.php:680 ba-event-main.php:778
+#: ba-event-main.php:827
+msgid "Not found in Trash"
+msgstr ""
+
+#: ba-event-main.php:636
+msgid "bookings"
+msgstr ""
+
+#: ba-event-main.php:668 ba-event-main.php:670 ba-event-main.php:687
+msgid "Events"
+msgstr ""
+
+#: ba-event-main.php:669
+msgid "Event"
+msgstr ""
+
+#: ba-event-main.php:671
+msgid "Parent Event"
+msgstr ""
+
+#: ba-event-main.php:672 ba-event-main.php:2657
+msgid "All Events"
+msgstr ""
+
+#: ba-event-main.php:673
+msgid "View Event"
+msgstr ""
+
+#: ba-event-main.php:674
+msgid "Add New Event"
+msgstr ""
+
+#: ba-event-main.php:675
+msgid "Add Event"
+msgstr ""
+
+#: ba-event-main.php:676
+msgid "Edit Event"
+msgstr ""
+
+#: ba-event-main.php:677
+msgid "Update Event"
+msgstr ""
+
+#: ba-event-main.php:678
+msgid "Search Events"
+msgstr ""
+
+#: ba-event-main.php:686
+msgid "events"
+msgstr ""
+
+#: ba-event-main.php:711 ba-event-main.php:721
+msgid "Features"
+msgstr ""
+
+#: ba-event-main.php:712
+msgid "Feature"
+msgstr ""
+
+#: ba-event-main.php:713
+msgid "Search Features"
+msgstr ""
+
+#: ba-event-main.php:714
+msgid "All Features"
+msgstr ""
+
+#: ba-event-main.php:715
+msgid "Parent Feature"
+msgstr ""
+
+#: ba-event-main.php:716
+msgid "Parent Feature:"
+msgstr ""
+
+#: ba-event-main.php:717
+msgid "Edit Feature"
+msgstr ""
+
+#: ba-event-main.php:718
+msgid "Update Feature"
+msgstr ""
+
+#: ba-event-main.php:719
+msgid "Add New Feature"
+msgstr ""
+
+#: ba-event-main.php:720
+msgid "New Feature"
+msgstr ""
+
+#: ba-event-main.php:736 ba-event-main.php:746
+msgid "Age Categories"
+msgstr ""
+
+#: ba-event-main.php:737
+msgid "Age Category"
+msgstr ""
+
+#: ba-event-main.php:738
+msgid "Search Age Categories"
+msgstr ""
+
+#: ba-event-main.php:739
+msgid "All Age Categories"
+msgstr ""
+
+#: ba-event-main.php:740
+msgid "Parent Age Category"
+msgstr ""
+
+#: ba-event-main.php:741
+msgid "Parent Age Category:"
+msgstr ""
+
+#: ba-event-main.php:742
+msgid "Edit Age Category"
+msgstr ""
+
+#: ba-event-main.php:743
+msgid "Update Age Category"
+msgstr ""
+
+#: ba-event-main.php:744
+msgid "Add New Age Category"
+msgstr ""
+
+#: ba-event-main.php:745
+msgid "New Age Category"
+msgstr ""
+
+#: ba-event-main.php:766 ba-event-main.php:767 ba-event-main.php:768
+#: ba-event-main.php:785 ba-event-main.php:1183 includes/functions.php:197
+msgid "FAQ"
+msgstr ""
+
+#: ba-event-main.php:769
+msgid "Parent FAQ"
+msgstr ""
+
+#: ba-event-main.php:770
+msgid "All FAQs"
+msgstr ""
+
+#: ba-event-main.php:771
+msgid "View FAQ"
+msgstr ""
+
+#: ba-event-main.php:772
+msgid "Add New FAQ"
+msgstr ""
+
+#: ba-event-main.php:773 ba-event-main.php:822
+msgid "Add New"
+msgstr ""
+
+#: ba-event-main.php:774
+msgid "Edit FAQ"
+msgstr ""
+
+#: ba-event-main.php:775
+msgid "Update FAQ"
+msgstr ""
+
+#: ba-event-main.php:776
+msgid "Search FAQ"
+msgstr ""
+
+#: ba-event-main.php:784
+msgid "faq"
+msgstr ""
+
+#: ba-event-main.php:815 ba-event-main.php:817 ba-event-main.php:834
+#: ba-event-main.php:1169 includes/functions.php:161
+msgid "Testimonials"
+msgstr ""
+
+#: ba-event-main.php:816
+msgid "Testimonial"
+msgstr ""
+
+#: ba-event-main.php:818
+msgid "Parent Testimonial"
+msgstr ""
+
+#: ba-event-main.php:819
+msgid "All Testimonials"
+msgstr ""
+
+#: ba-event-main.php:820
+msgid "View Testimonial"
+msgstr ""
+
+#: ba-event-main.php:821
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ba-event-main.php:823
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ba-event-main.php:824
+msgid "Update Testimonial"
+msgstr ""
+
+#: ba-event-main.php:825
+msgid "Search Testimonials"
+msgstr ""
+
+#: ba-event-main.php:833
+msgid "testi"
+msgstr ""
+
+#: ba-event-main.php:869
+msgid "&nbsp;"
+msgstr ""
+
+#: ba-event-main.php:881 ba-event-main.php:901
+msgid "Select Event"
+msgstr ""
+
+#: ba-event-main.php:894
+msgid "Event details"
+msgstr ""
+
+#: ba-event-main.php:910
+msgid "First name"
+msgstr ""
+
+#: ba-event-main.php:920
+msgid "Last name"
+msgstr ""
+
+#: ba-event-main.php:930
+msgid "E-mail"
+msgstr ""
+
+#: ba-event-main.php:940
+msgid "Phone"
+msgstr ""
+
+#: ba-event-main.php:960
+msgid "Details"
+msgstr ""
+
+#: ba-event-main.php:973
+msgid "Address"
+msgstr ""
+
+#: ba-event-main.php:974
+msgid "Street, etc."
+msgstr ""
+
+#: ba-event-main.php:991
+msgid "Location Latitude"
+msgstr ""
+
+#: ba-event-main.php:999
+msgid "Location Longitude"
+msgstr ""
+
+#: ba-event-main.php:1008
+msgid "Up to Guests"
+msgstr ""
+
+#: ba-event-main.php:1022
+msgid "Price, "
+msgstr ""
+
+#: ba-event-main.php:1034
+msgid "Price field is not available "
+msgstr ""
+
+#: ba-event-main.php:1035
+msgid "Please, "
+msgstr ""
+
+#: ba-event-main.php:1035
+msgid "create age category first."
+msgstr ""
+
+#: ba-event-main.php:1046
+msgid "Event Start Date"
+msgstr ""
+
+#: ba-event-main.php:1057
+msgid "Event End Date"
+msgstr ""
+
+#: ba-event-main.php:1071
+msgid "Setup time from / time to data"
+msgstr ""
+
+#: ba-event-main.php:1074
+msgid "Time group {#}"
+msgstr ""
+
+#: ba-event-main.php:1075
+msgid "Add Another Time group"
+msgstr ""
+
+#: ba-event-main.php:1076
+msgid "Remove Time group"
+msgstr ""
+
+#: ba-event-main.php:1082
+msgid "Time From"
+msgstr ""
+
+#: ba-event-main.php:1093
+msgid "Time To"
+msgstr ""
+
+#: ba-event-main.php:1106
+msgid "Available days"
+msgstr ""
+
+#: ba-event-main.php:1107
+msgid "Select available days for this event"
+msgstr ""
+
+#: ba-event-main.php:1114
+msgid "Exclude Dates"
+msgstr ""
+
+#: ba-event-main.php:1124
+msgid "Images"
+msgstr ""
+
+#: ba-event-main.php:1125
+msgid "Upload or add multiple images."
+msgstr ""
+
+#: ba-event-main.php:1136
+msgid "Features title"
+msgstr ""
+
+#: ba-event-main.php:1144
+msgid "Features text"
+msgstr ""
+
+#: ba-event-main.php:1152
+msgid "Features list"
+msgstr ""
+
+#: ba-event-main.php:1157
+msgid "Sorry, no terms could be found."
+msgstr ""
+
+#: ba-event-main.php:1170
+msgid "Select testimonials to show with this event"
+msgstr ""
+
+#: ba-event-main.php:1184
+msgid "Select FAQ to show with this event"
+msgstr ""
+
+#: ba-event-main.php:1195
+msgid "You may also like"
+msgstr ""
+
+#: ba-event-main.php:1196
+msgid "Recommended events to show with this event"
+msgstr ""
+
+#: ba-event-main.php:1219
+msgid "Delete"
+msgstr ""
+
+#: ba-event-main.php:1224
+msgid "Exclude selected date"
+msgstr ""
+
+#: ba-event-main.php:1310
+msgid "January"
+msgstr ""
+
+#: ba-event-main.php:1311
+msgid "February"
+msgstr ""
+
+#: ba-event-main.php:1312
+msgid "March"
+msgstr ""
+
+#: ba-event-main.php:1313
+msgid "April"
+msgstr ""
+
+#: ba-event-main.php:1314
+msgid "May"
+msgstr ""
+
+#: ba-event-main.php:1315
+msgid "June"
+msgstr ""
+
+#: ba-event-main.php:1316
+msgid "July"
+msgstr ""
+
+#: ba-event-main.php:1317
+msgid "August"
+msgstr ""
+
+#: ba-event-main.php:1318
+msgid "September"
+msgstr ""
+
+#: ba-event-main.php:1319
+msgid "October"
+msgstr ""
+
+#: ba-event-main.php:1320
+msgid "November"
+msgstr ""
+
+#: ba-event-main.php:1321
+msgid "December"
+msgstr ""
+
+#: ba-event-main.php:1331 ba-event-main.php:1345
+msgid "Sun"
+msgstr ""
+
+#: ba-event-main.php:1332 ba-event-main.php:1339
+msgid "Mon"
+msgstr ""
+
+#: ba-event-main.php:1333 ba-event-main.php:1340
+msgid "Tue"
+msgstr ""
+
+#: ba-event-main.php:1334 ba-event-main.php:1341
+msgid "Wed"
+msgstr ""
+
+#: ba-event-main.php:1335 ba-event-main.php:1342
+msgid "Thu"
+msgstr ""
+
+#: ba-event-main.php:1336 ba-event-main.php:1343
+msgid "Fri"
+msgstr ""
+
+#: ba-event-main.php:1337 ba-event-main.php:1344
+msgid "Sat"
+msgstr ""
+
+#: ba-event-main.php:1382
+msgid "Availability calendar"
+msgstr ""
+
+#: ba-event-main.php:1415 ba-event-main.php:2166
+msgid "Reservation number: "
+msgstr ""
+
+#: ba-event-main.php:1424 ba-event-main.php:2183 ba-event-main.php:2234
+msgid "Event Title: "
+msgstr ""
+
+#: ba-event-main.php:1428 ba-event-main.php:2187 ba-event-main.php:2238
+msgid "Event Date: "
+msgstr ""
+
+#: ba-event-main.php:1432 ba-event-main.php:2191 ba-event-main.php:2242
+msgid "Event Time: "
+msgstr ""
+
+#: ba-event-main.php:1436 ba-event-main.php:1947 ba-event-main.php:2195
+#: ba-event-main.php:2246
+msgid "Event Address: "
+msgstr ""
+
+#: ba-event-main.php:1440 ba-event-main.php:2199 ba-event-main.php:2250
+msgid "Tickets: "
+msgstr ""
+
+#: ba-event-main.php:1444 ba-event-main.php:2209
+msgid "TOTAL PRICE: "
+msgstr ""
+
+#: ba-event-main.php:1703
+msgid "new customer"
+msgstr ""
+
+#: ba-event-main.php:1821
+msgid "Address: "
+msgstr ""
+
+#: ba-event-main.php:1874
+msgid "Booking calendar"
+msgstr ""
+
+#: ba-event-main.php:1879 ba-event-main.php:3052 ba-event-main.php:3077
+#: ba-event-main.php:3122
+msgid "Select a date to view alailable time"
+msgstr ""
+
+#: ba-event-main.php:1924
+msgid "Tour booking"
+msgstr ""
+
+#: ba-event-main.php:1945
+msgid "Event title: "
+msgstr ""
+
+#: ba-event-main.php:1948
+msgid "Status: Booked"
+msgstr ""
+
+#: ba-event-main.php:1956
+msgid "Your Confirmation Number: "
+msgstr ""
+
+#: ba-event-main.php:1973
+msgid "TOUR DETAILS"
+msgstr ""
+
+#: ba-event-main.php:1980
+msgid "Event Time start"
+msgstr ""
+
+#: ba-event-main.php:2003 ba-event-main.php:2176
+msgid "First name: "
+msgstr ""
+
+#: ba-event-main.php:2008 ba-event-main.php:2179
+msgid "Last name: "
+msgstr ""
+
+#: ba-event-main.php:2013 ba-event-main.php:2203
+msgid "Contacts: "
+msgstr ""
+
+#: ba-event-main.php:2028
+msgid "PAYMENT DETAILS"
+msgstr ""
+
+#: ba-event-main.php:2032
+msgid "Total Amount:"
+msgstr ""
+
+#: ba-event-main.php:2037
+msgid "PAID:"
+msgstr ""
+
+#: ba-event-main.php:2169
+msgid "Your reservation details"
+msgstr ""
+
+#: ba-event-main.php:2215
+msgid "PRINT"
+msgstr ""
+
+#: ba-event-main.php:2305
+msgid "Your booking"
+msgstr ""
+
+#: ba-event-main.php:2310
+msgid ""
+"Please review your information, then fill out the booking form. All "
+"fields marked with * must be filled in."
+msgstr ""
+
+#: ba-event-main.php:2312
+msgid "Guest"
+msgstr ""
+
+#: ba-event-main.php:2315
+msgid "First Name*"
+msgstr ""
+
+#: ba-event-main.php:2320
+msgid "Last Name*"
+msgstr ""
+
+#: ba-event-main.php:2324
+msgid "Contacts"
+msgstr ""
+
+#: ba-event-main.php:2326
+msgid "Email*"
+msgstr ""
+
+#: ba-event-main.php:2331
+msgid "Phone/Mobile*"
+msgstr ""
+
+#: ba-event-main.php:2341 ba-event-main.php:2348
+msgid "I have read and accept the "
+msgstr ""
+
+#: ba-event-main.php:2357
+msgid "BOOK NOW"
+msgstr ""
+
+#: ba-event-main.php:2374
+msgid ""
+"There are no available tickets for selected event. Please, choose "
+"another date, time or event."
+msgstr ""
+
+#: ba-event-main.php:2410
+msgid "Select payment amount"
+msgstr ""
+
+#: ba-event-main.php:2413
+msgid "Full amount: "
+msgstr ""
+
+#: ba-event-main.php:2417
+msgid "Deposit: "
+msgstr ""
+
+#: ba-event-main.php:2423
+msgid "Deposit amount to pay now: "
+msgstr ""
+
+#: ba-event-main.php:2429
+msgid "Amount to pay now: "
+msgstr ""
+
+#: ba-event-main.php:2437
+msgid "Amount to pay later: "
+msgstr ""
+
+#: ba-event-main.php:2454
+msgid "Pay Cash"
+msgstr ""
+
+#: ba-event-main.php:2773
+msgid " tickets left"
+msgstr ""
+
+#: ba-event-main.php:3003
+msgid "How many tickets will you need?"
+msgstr ""
+
+#: ba-event-main.php:3007
+msgid "Total:"
+msgstr ""
+
+#: ba-event-main.php:3016
+msgid "Proceed with Booking"
+msgstr ""
+
+#: ba-event-main.php:3102
+msgid " tickets available"
+msgstr ""
+
+#: ba-event-main.php:3116
+msgid "Select time"
+msgstr ""
+
+#: ba-event-main.php:3284
+msgid " tickets"
+msgstr ""
+
+#: classes/class-ba-list-table.php:154
+msgid "List View"
+msgstr ""
+
+#: classes/class-ba-list-table.php:155
+msgid "Excerpt View"
+msgstr ""
+
+#: classes/class-ba-list-table.php:326
+msgid "No items found."
+msgstr ""
+
+#: classes/class-ba-list-table.php:454
+msgid "Select bulk action"
+msgstr ""
+
+#: classes/class-ba-list-table.php:456
+msgid "Bulk Actions"
+msgstr ""
+
+#: classes/class-ba-list-table.php:466
+msgid "Apply"
+msgstr ""
+
+#: classes/class-ba-list-table.php:516 classes/class-ba-list-table.php:1317
+msgid "Show more details"
+msgstr ""
+
+#: classes/class-ba-list-table.php:579
+msgid "Filter by date"
+msgstr ""
+
+#: classes/class-ba-list-table.php:581
+msgid "All dates"
+msgstr ""
+
+#: classes/class-ba-list-table.php:594
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: classes/class-ba-list-table.php:646
+#, php-format
+msgid "%s comment"
+msgstr ""
+
+#: classes/class-ba-list-table.php:647
+#, php-format
+msgid "%s approved comment"
+msgstr ""
+
+#: classes/class-ba-list-table.php:648
+#, php-format
+msgid "%s pending comment"
+msgstr ""
+
+#: classes/class-ba-list-table.php:653 classes/class-ba-list-table.php:665
+#: classes/class-ba-list-table.php:678
+msgid "No comments"
+msgstr ""
+
+#: classes/class-ba-list-table.php:665
+msgid "No approved comments"
+msgstr ""
+
+#: classes/class-ba-list-table.php:678
+msgid "No pending comments"
+msgstr ""
+
+#: classes/class-ba-list-table.php:755 classes/class-ba-list-table.php:1342
+#, php-format
+msgid "%s item"
+msgstr ""
+
+#: classes/class-ba-list-table.php:791
+msgid "First page"
+msgstr ""
+
+#: classes/class-ba-list-table.php:801
+msgid "Previous page"
+msgstr ""
+
+#: classes/class-ba-list-table.php:808 classes/class-ba-list-table.php:811
+msgid "Current Page"
+msgstr ""
+
+#: classes/class-ba-list-table.php:817
+#, php-format
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: classes/class-ba-list-table.php:824
+msgid "Next page"
+msgstr ""
+
+#: classes/class-ba-list-table.php:834
+msgid "Last page"
+msgstr ""
+
+#: classes/class-ba-list-table.php:1062
+msgid "Select All"
+msgstr ""
+
+#: classes/customers-list.php:14
+msgid "Customer"
+msgstr ""
+
+#: classes/customers-list.php:15
+msgid "Customers"
+msgstr ""
+
+#: classes/customers-list.php:111
+msgid "No customers avaliable."
+msgstr ""
+
+#: classes/customers-list.php:176
+msgid "Name"
+msgstr ""
+
+#: classes/customers-list.php:177
+msgid "e-mail"
+msgstr ""
+
+#: classes/customers-list.php:178
+msgid "Telephone"
+msgstr ""
+
+#: classes/customers-list.php:179
+msgid "Admin notes"
+msgstr ""
+
+#: classes/customers-list.php:258
+msgid "Customer deleted!"
+msgstr ""
+
+#: classes/customers-list.php:258 classes/customers-list.php:278
+msgid "Back to My Customers list"
+msgstr ""
+
+#: classes/customers-list.php:278
+msgid "Customer(s) deleted!"
+msgstr ""
+
+#: classes/widget-youmaylike.php:10
+msgid "BA Event You may like"
+msgstr ""
+
+#: classes/widget-youmaylike.php:12
+msgid "Show \"you may like\" events on the event page"
+msgstr ""
+
+#: classes/widget-youmaylike.php:53
+msgid "Title:"
+msgstr ""
+
+#: includes/functions.php:219
+msgid "&laquo; Previous"
+msgstr ""
+
+#: includes/functions.php:220
+msgid "Next &raquo;"
+msgstr ""
+
+#: includes/plugins/cmb2/includes/CMB2_Base.php:389
+#, php-format
+msgid ""
+"The \"%s\" field parameter has been deprecated in favor of the \"%s\" "
+"parameter."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/CMB2_Base.php:393
+#, php-format
+msgid ""
+"Using the \"%s\" field parameter as a callback has been deprecated in "
+"favor of the \"%s\" parameter."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/CMB2_Base.php:423
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> "
+"since version %2$s! %3$s"
+msgstr ""
+
+#: includes/plugins/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> "
+"since version %2$s with no alternative available."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/CMB2_JS.php:128
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/plugins/cmb2/includes/CMB2_JS.php:148
+msgid "hh:mm TT"
+msgstr ""
+
+#: includes/plugins/cmb2/includes/CMB2_Types.php:220
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/CMB2_hookup.php:389
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:268
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
+msgid ""
+"No box found by that id. A box needs to be registered with the "
+"\"show_in_rest\" parameter configured."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:370
+msgid "The id for the object."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller.php:375
+msgid "The title for the object."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:50
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as "
+"well as the enqueued 'js_dependencies' script handles, and "
+"'css_dependencies' stylesheet handles."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the "
+"response."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and "
+"object_type parameters specified."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:308
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:335
+msgid "No field found by that id."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:407
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:24
+msgid "The register_routes() method must be overriden"
+msgstr ""
+
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:34
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:44
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:54
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:64
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:74
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:84
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:94
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:104
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:114
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:124
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:134
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:145
+#, php-format
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:248
+msgid "Current page of the collection."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:256
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:265
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: includes/plugins/cmb2/includes/shim/WP_REST_Controller.php:283
+msgid ""
+"Scope under which the request is made; determines fields present in "
+"response."
+msgstr ""

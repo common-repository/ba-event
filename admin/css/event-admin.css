@@ -1,0 +1,44 @@
+
+td.tickets ul{
+    margin: 0;
+}
+
+#select-ap-button:hover, #select-ap-button3:hover{
+  cursor: pointer;
+}
+
+*[id^="edit-notes-button"]{
+  margin-top: 10px;
+}
+
+.wp-admin.post-type-booking #titlediv{
+  display: none;
+}
+
+.ba_event_img_field_preview{
+    max-height: 100px;
+    vertical-align: top;
+}
+
+/*******************************/
+
+.map_marker_block{
+    display: inline-block;
+    margin-right: 21px;
+    text-align: center;
+}
+
+.map_marker_block input[type="radio"]{
+    margin-right: 0;
+}
+
+.map_marker_img{
+    display: block;
+}
+
+/*********** Booking post type *****************/
+
+.post-type-booking #misc-publishing-actions .misc-pub-post-status, .post-type-booking #preview-action, .post-type-booking #save-action, .post-type-booking #misc-publishing-actions .misc-pub-curtime{
+    display: none;
+} 
+
